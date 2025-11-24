@@ -2,6 +2,8 @@
 
 # HTML Basics Project
 
+This project is a simple one-page portfolio created using **basic HTML tags**.
+
 This project is a simple Questions  created using **basic HTML tags**.  
 
 It demonstrates how to structure a webpage with headings, paragraphs, lists, links, and images.
